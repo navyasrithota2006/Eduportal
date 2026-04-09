@@ -170,13 +170,3 @@ flutter run
 | `/settings` | SettingsScreen |
 | `/notifications` | NotificationsScreen (arg: role string) |
 
----
-
-## 📌 Next Steps
-
-- [ ] Firebase Auth integration
-- [ ] Firestore real-time database
-- [ ] Push notifications (FCM)
-- [ ] Image upload for profile photos
-- [ ] PDF export for report cards
-- [ ] Offline-first with Hive/Isar
